@@ -1,0 +1,44 @@
+
+.nav {
+    background-color: #3e4c5c;
+    display: flex;
+    padding: 8px;
+    position: fixed;
+    width: 100%;
+    margin-top: 0px;
+    top: 0; /* Add this line */
+    left: 0; /* Add this line */
+    right: 0; /* Add this line */
+    margin: 0; /* Add this line */
+  
+  }
+  
+  .nav ul {
+    margin: auto;
+    gap: 1rem;
+  }
+  
+  .nav a {
+    display: inline;
+    color: #fff;
+    background-color: #3e4c5c;
+    font-size: 16px;
+    padding-right: 75px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 75px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  
+  .nav li {
+    display: inline;
+  }
+  
+  .nav a:hover {
+    background-color: lightgrey;
+  }
