@@ -36,7 +36,7 @@ function Home() {
               </div>
             </Col>
             <Col md={4} className={classes.colWrapper}>
-              <Bird quote={"Looking for a job now"}/>
+              <Bird quote={"Welcome to my world !!!"}/>
             </Col>
           </Row>
         </Container>

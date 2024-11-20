@@ -8,24 +8,29 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Simon Pham </span>
-            <br/>
-            <br/>Enthusiastic entry-level full-stack software developer with a track
-            record of creating numerous personal projects during my studies.
-            <br/>
-            <br/>
-            Proficient in mastering HTML and CSS to craft captivating user
-            interfaces, programming browsers using JavaScript, jQuery, and
-            React, and building robust servers with languages like PHP, Python,
-            and Node.js. 
-            <br/>
-            <br/>My passion for coding extends beyond the classroom, as
-            I've dedicated my time to hands-on projects that demonstrate my
-            ability to create efficient and user-friendly applications. 
-            <br/>
-            <br/>I am
-            eager to apply these skills in a professional setting, collaborating
-            with a dynamic team and contributing to your organization's success.
+            Hi everyone, I am <span className="purple">Simon Pham </span>
+            <br />
+            <br />
+            An enthusiastic full-stack software developer with experience in
+            building scalable and high-performance applications. I am proficient
+            in both serverless and server-based architectures, selecting optimal
+            cloud solutions for performance and cost using cloud technologies in
+            AWS, Azure.
+            <br />
+            <br />
+            Proficient in building scalable, high-performance applications using
+            Next.js, Typescript for maintainable code, server-side rendering and
+            SEO optimization, React framework + Tailwind/Bootstrap for dynamic,
+            responsive user interfaces. Experienced in developing robust
+            back-end services with Node.js, Python, and leveraging Prisma for
+            efficient database management. In addition, optimize database
+            hosting with caching, indexing, virtual private cloud set up.
+            <br />
+            <br />
+            With a strong focus on building scalable, cost-effective, and
+            high-performance applications, I am eager to contribute my skills to
+            a dynamic team and drive impactful solutions.
+            <br />
           </p>
           <footer className="blockquote-footer">Simon Pham</footer>
         </blockquote>
