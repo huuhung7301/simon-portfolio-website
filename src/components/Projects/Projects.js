@@ -28,7 +28,7 @@ function Projects() {
               isBlog={false}
               title="The Stock Insight"
               description="A full-stack finance solution leveraging Python for data retrieval from Investing.com and Yahoo Finance, extracting stock, commodity, and forex data. Using Next.js for the frontend ensures SEO optimization, while Graph.js visualizes stock charts. The application utilizes a serverless architecture with AWS Lambda and API Gateway for scalable API deployment. I implemented Docker and GitHub Actions for a seamless CI/CD pipeline, enabling automated testing and rapid deployment. Database performance is optimized with caching and query indexing, ensuring low latency and real-time updates."
-              ghLink="https://thestockinsight.com/"
+              ghLink="https://stock-insight-next2.vercel.app/"
               demoLink="https://www.linkedin.com/posts/simon-pham-2b8144194_stockinsight-investment-fintech-activity-7224401815990059008-5Wtt?utm_source=share&utm_medium=member_desktop"
             />
           </Col>
